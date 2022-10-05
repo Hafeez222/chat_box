@@ -182,7 +182,7 @@ class _MyHomePageState extends State<MyHomePage> {
                           constraints: BoxConstraints(maxWidth: 200),
                           child: Text(
                           message, style: TextStyle(
-                                color: Colors.white, fontWeight: FontWeight.w100, ),
+                                color: Colors.black, fontWeight: FontWeight.w100, ),
                           ),
                         ),
                       )
